@@ -56,7 +56,7 @@ AnalogNAS has been developed by IBM Research,
 
 with Hadjer Benmeziane, Corey Lammie, Irem Boybat, Malte Rasch, Manuel Le Gallo, 
 Smail Niar, Hamza Ouarnoughi, Ramachandran Muralidhar, Sidney Tsai, Vijay Narayanan, 
-Abu Sebastian, and Kaoutar El Maghraoui
+Abu Sebastian, Zayneb Cherif, and Kaoutar El Maghraoui
 
 You can contact us by opening a new issue in the repository. 
 
